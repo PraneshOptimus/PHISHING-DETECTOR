@@ -1,0 +1,38 @@
+body {
+  width: 300px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  font-size: 16px;
+  text-align: center;
+}
+h2 {
+  font-size: 14px;
+  margin-top: 10px;
+}
+#current-url, #suspicious-links {
+  margin-bottom: 10px;
+}
+#url, #status {
+  font-weight: bold;
+}
+#link-list {
+  list-style-type: none;
+  padding: 0;
+}
+#link-list li {
+  margin: 5px 0;
+  word-break: break-all;
+}
+#report-btn {
+  width: 100%;
+  padding: 5px;
+  background-color: #ff4444;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+#report-btn:hover {
+  background-color: #cc0000;
+}
