@@ -10,7 +10,7 @@
   ],
   "host_permissions": [
     "http://localhost:5000/*",
-    "https://*.onrender.com/*"
+    "https://phishing-detector-h6c1.onrender.com/*"
   ],
   "action": {
     "default_popup": "popup.html",
